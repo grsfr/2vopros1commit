@@ -13,6 +13,8 @@ namespace LinqToObjectsTasks
             Task13_Min();
             Console.WriteLine();
         }
+        
+        //ЗАДАЧА13 МИН ЗНАЧЕНИЕ
 
         static void Task13_Min()
         {
