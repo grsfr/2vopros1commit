@@ -1,0 +1,7 @@
+D:\vs exam\2vopros\bin\Debug\2vopros.exe.config
+D:\vs exam\2vopros\bin\Debug\2vopros.exe
+D:\vs exam\2vopros\bin\Debug\2vopros.pdb
+D:\vs exam\2vopros\obj\Debug\2vopros.csproj.AssemblyReference.cache
+D:\vs exam\2vopros\obj\Debug\2vopros.csproj.CoreCompileInputs.cache
+D:\vs exam\2vopros\obj\Debug\2vopros.exe
+D:\vs exam\2vopros\obj\Debug\2vopros.pdb
